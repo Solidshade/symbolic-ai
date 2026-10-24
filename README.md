@@ -4,8 +4,6 @@ Astra is an experimental artificial intelligence project built from scratch in *
 
 The project starts with a symbolic reasoning engine and will gradually evolve into a learning system with persistent memory, rule generalization, and goal-oriented planning.
 
-> **Status:** Early development — Version 0.1
-
 ## Current Features
 
 - **Knowledge base:** Stores facts as Lisp symbols.
